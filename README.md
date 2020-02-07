@@ -2,7 +2,7 @@
 
 Solution based on: https://www.marcolancini.it/2018/blog-docker-burp/ and https://github.com/alpin3/burpfree
 
-Powershell (As Administrator)
+Powershell (As Administrator):
 1. Run xserverWindows.ps1 (in case of first start)
 2. It's important to set up environment variable $env:LOCAL_IP 
 	(you can do that by executing xserverWindows.ps1 or getIP.ps1) 
